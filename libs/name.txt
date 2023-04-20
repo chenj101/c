@@ -1,0 +1,4 @@
+file 'f:/python/st1/libs/ts_path/5.ts'
+file 'f:/python/st1/libs/ts_path/6.ts'
+file 'f:/python/st1/libs/ts_path/7.ts'
+file 'f:/python/st1/libs/ts_path/8.ts'
